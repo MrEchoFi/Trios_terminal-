@@ -1,0 +1,25 @@
+2025-05-06 01:30:36,071 - INFO - Running system command: ls
+2025-05-06 01:36:15,746 - INFO - Running system command: ls -la
+2025-05-06 01:37:14,970 - INFO - Running Nmap scan on: 192.168.1.1
+2025-05-06 01:37:15,005 - ERROR - Error running Nmap scan on `192.168.1.1`: Command 'nmap -sV 192.168.1.1' returned non-zero exit status 1.
+2025-05-06 01:44:07,259 - INFO - Running system command: ls -la
+2025-05-06 01:55:15,100 - INFO - Running system command: ls -la
+2025-05-06 01:55:36,085 - INFO - Installing package: django
+2025-05-06 02:21:02,105 - INFO - Installing package: python-nmap
+2025-05-06 02:21:02,756 - ERROR - Error installing package `python-nmap`: Command '/usr/bin/python3 -m pip install python-nmap' returned non-zero exit status 1.
+2025-05-06 02:21:16,735 - INFO - Installing package: nmap
+2025-05-06 02:21:17,067 - ERROR - Error installing package `nmap`: Command '/usr/bin/python3 -m pip install nmap' returned non-zero exit status 1.
+2025-05-06 02:22:21,584 - INFO - Installing package: python-nmap
+2025-05-06 02:23:51,503 - INFO - Running aggressive Nmap scan on: 192.168.1.1
+2025-05-06 02:23:51,531 - ERROR - Error running aggressive Nmap scan on `192.168.1.1`: Command 'nmap -A 192.168.1.1' returned non-zero exit status 1.
+2025-05-06 03:16:46,150 - INFO - Running system command: ls -la
+2025-05-06 03:17:13,452 - INFO - Installing package: numpy
+2025-05-06 03:17:14,070 - ERROR - Error installing package `numpy`: Command '/usr/bin/python3 -m pip install numpy' returned non-zero exit status 1.
+2025-05-06 03:17:28,221 - INFO - Installing package: python-nmap
+2025-05-06 03:17:28,573 - ERROR - Error installing package `python-nmap`: Command '/usr/bin/python3 -m pip install python-nmap' returned non-zero exit status 1.
+2025-05-06 03:18:37,245 - INFO - Installing package: numpy
+2025-05-06 03:20:26,876 - INFO - Running system command: ls -la
+2025-05-06 03:20:37,891 - INFO - Installing package: numpy
+2025-05-06 03:20:49,584 - INFO - Installing package: python-nmap
+2025-05-06 03:20:59,802 - INFO - Installing package: pygame
+2025-05-06 03:21:37,719 - INFO - Running system command: ls -la

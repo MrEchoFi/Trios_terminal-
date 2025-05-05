@@ -1,0 +1,23 @@
+2025-03-08 00:16:20,799 - INFO - Running system command: ls
+2025-03-08 00:16:52,881 - INFO - Running system command: ls -la
+2025-03-08 00:17:23,343 - INFO - Installing package: numpy
+2025-03-08 00:17:57,985 - INFO - Installing package: npm
+2025-03-08 00:19:27,240 - INFO - Cloning repository: https://github.com/MrEchoFi/Find_Fidelity.git Destination: 
+2025-03-08 00:21:56,630 - INFO - Fetching network interface information
+2025-03-08 00:21:56,685 - ERROR - Error fetching network interfaces: Command 'ifconfig' returned non-zero exit status 1.
+2025-03-08 00:24:04,614 - INFO - Fetching network interface information
+2025-03-08 00:24:04,661 - ERROR - Error fetching network interfaces: Command 'ifconfig' returned non-zero exit status 1.
+2025-03-08 00:28:54,128 - INFO - Running system command: ls
+2025-03-08 00:29:11,578 - INFO - Running system command: ls -la
+2025-03-08 00:31:07,146 - INFO - Running system command: ls
+2025-03-08 00:31:25,604 - INFO - Running system command: Find_Fidelity
+2025-03-08 00:31:25,631 - ERROR - Error executing command `Find_Fidelity`: Command 'Find_Fidelity' returned non-zero exit status 1.
+2025-03-08 00:54:34,119 - INFO - Installing package: pandas
+2025-03-08 00:55:06,279 - INFO - Running system command: ls -la
+2025-03-08 00:56:56,766 - INFO - Cloning repository: https://github.com/MrEchoFi/ARP-Spoof.C-ESP32-by-Md.-Abu-Naser-Nayeem-Tanjib-.git Destination: 
+2025-03-08 00:59:42,707 - INFO - Running system command: ls
+2025-03-08 00:59:58,668 - INFO - Opening file: Find_Fidelity
+2025-03-08 01:01:19,722 - INFO - Opening file: C:\Users\ENVY USER\OneDrive\Documents
+2025-03-23 00:16:47,370 - INFO - Running system command: ls
+2025-03-23 00:16:59,382 - INFO - Running system command: ls -la
+2025-05-06 01:09:46,967 - INFO - Installing package: numpy
