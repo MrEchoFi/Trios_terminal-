@@ -1,3 +1,13 @@
+<div align="center">
+
+  <img src="https://github.com/MrEchoFi/MrEchoFi/raw/4274f537dec313ac7dde4403fe0fae24259beade/Mr.EchoFi-New-Logo-with-ASCII.jpg" alt="logo" width="200" height="auto" />
+  <h1>Trios_terminal</h1>
+   
+  <p>
+    Multi-purpose Red team shell
+  </p>
+
+
 # Trios_terminal/description/~
   This terminal is based on cybersecurity, multi-purpose, custom shell and designed for red team & blue team penetration testing
    and system tasks and also can able to give a penetration environment in any os!!
