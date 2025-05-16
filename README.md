@@ -22,3 +22,4 @@ https://github.com/user-attachments/assets/4cd722c2-0d46-4c38-add6-4e663315edc0
 
 
 # Note/~ This project is underdeveloped! we are still working on this ~/
+- 📫 How to reach me **tanjibisham777@gmail.com & tanjibisham888@gmail.com**
