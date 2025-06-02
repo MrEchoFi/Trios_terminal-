@@ -10,6 +10,7 @@
     Multi-purpose Red team shell
   </p>
 
+# How to reach me: http://mrechofi.github.io/Tanjib_portfolio_website/ & tanjibisham777@gmail.com | github.com/369emon
 
 # Trios_terminal/description/~
   This terminal is based on cybersecurity, multi-purpose, custom shell and designed for red team & blue team penetration testing
