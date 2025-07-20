@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/9a0c4f8b-80d4-472f-a7ad-340f05c3dbc1" alt="logo" width="450" height="auto" />
+<img src="https://github.com/MrEchoFi/Trios_terminal-/blob/main/Trios_Terminal_Cyber_Security_Tool_a1d758a9-6b6a-4636-a105-60e99bfbf425.jpg?raw=true" alt="logo" width="550" height="auto" />
 </div>
 <div align="center">
 
